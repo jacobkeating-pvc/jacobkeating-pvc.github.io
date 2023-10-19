@@ -1,0 +1,47 @@
+h3{
+    margin: 0em;
+
+}
+h4{
+    margin: 0em;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url('machine.jpeg');
+    background-position: 50%;
+    background-size: 150%;
+    color: #441C6F;
+    background-color: #100007;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    line-height: 1.5em;
+    font-family: 'American Typewriter', 'semibold';
+}
+table{
+    background-color: #E07FE6;
+    width: 50%;
+    margin: auto;
+    border: 2px solid #9752BC;
+    border-radius: 2px;
+}
+td{
+    width: 25%;
+    padding-left: 2px;
+    border: 2px solid #9752BC;
+    border-radius: 2px;
+}
+ul{
+    margin: 10px;
+    margin-bottom: 5%;
+    color:#642E91;
+}
+a{
+    color: #642E91;
+    text-decoration: none;
+}
+a:link {color: #9752BC;}
+a:visited {color: #9752BC;}
+a:hover {color: #73A1E2;}
+a:active {color: #9752BC;}
