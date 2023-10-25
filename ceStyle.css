@@ -46,6 +46,9 @@ p{
     margin-right: 5em;  
     line-height: 2em;
 }
+li{
+    padding-bottom: 2em;
+}
 a:link {color: #5D5E60;}
 a:visited {color: #5D5E60;}
 a:hover {color: #36413E;}
