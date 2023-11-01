@@ -4,7 +4,7 @@ body{
     padding-top: 1em;
     padding-bottom: 1em;
     font-family: 'American Typewriter', 'semibold';
-    line-height: 1.5em;
+    line-height: 2em;
     padding-top: 5%;
     padding-bottom: 5%;
     background-image: url('forest.jpeg');
@@ -27,6 +27,7 @@ ul{
     margin: 20px;
     margin-bottom: 5%;
     color:#6c584c;
+    font-size: large;
 }
 a{
     color: #6c584c;
