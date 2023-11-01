@@ -5,6 +5,10 @@ body{
     padding-bottom: 1em;
     font-family: 'American Typewriter', 'semibold';
     line-height: 1.5em;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url('forest.jpeg');
+    background-size: cover;
 }
 table{
     background-color: #f0ead2;
