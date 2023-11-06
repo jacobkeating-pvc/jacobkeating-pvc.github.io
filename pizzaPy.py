@@ -29,6 +29,7 @@ def main():
         askAgain = input("\nWould you like to order more pizza? (Y or N)?: ")
         if askAgain.upper() == "N" or askAgain.upper() == "NO": 
             more = False
+            print("Thank you for ordering from Palermo Pizza Restaurant!")
 
 def get_user_data():
     line ='----------------------------------------------'
