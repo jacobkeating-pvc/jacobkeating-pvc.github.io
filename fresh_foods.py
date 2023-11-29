@@ -103,7 +103,7 @@ def output():
     print('\n------------- WEEKLY PAYROLL REPORT -------------')
     print(tab + str(datetime.datetime.now()))
     print(line)
-    titles = "\nEmp Name" + tab + "Code" + 2*tab + "Gross" + 2*tab + "Fed Inc Tax" + tab + "State Inc Tax" + tab + "Soc Sec" + 2*tab + "Medicare" + tab + "Retirement" + tab + "Net"
+    titles = "\nEmp Name" + 2*tab + "Code" + tab + "Gross" + 2*tab + "Fed Inc Tax" + tab + "State Inc Tax" + tab + "Soc Sec" + 2*tab + "Medicare" + tab + "Retirement" + tab + "Net"
     print(titles)
     for i in range(num_emps):
         data = "\n" + emp[i] + tab + job[i] + tab + format(gross_pay[i], currency) + tab + format(fed_tax[i], currency) + tab + format(state_tax[i], currency) + tab + format(soc_sec[i], currency) + tab + format(medicare[i], currency) + tab + format(ret_pay[i], currency)+ tab  + format(net_pay[i], currency)
