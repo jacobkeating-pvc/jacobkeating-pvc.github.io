@@ -1,0 +1,26 @@
+body{
+    background-image: url('panther.jpeg');
+    background-size: 20%;
+    color: #105293;
+    background-color: #040302;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    line-height: 1.5em;
+    font-family: 'American Typewriter', 'semibold';
+}
+table{
+    background-color: #20282B;
+    width: 25%;
+    margin: auto;
+    border: 2px solid #040302;
+    border-radius: 2px;
+}
+td{
+    width: 25%;
+    padding-left: 2px;
+    border: 2px solid #040302;
+    border-radius: 2px;
+}
+h2{
+    text-align: center;
+}
