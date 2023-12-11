@@ -1,0 +1,25 @@
+body{
+    background-image: url('emerald_back.jpeg');
+    background-size: 100%;
+    color: #A2AD59;
+    background-color: #598381;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    line-height: 1.5em;
+    font-family: 'American Typewriter', 'semibold';
+}
+table{
+    background-color: #177E89;
+    width: 52%;
+    margin: auto;
+    border: 2px solid #08605F;
+}
+td{
+    width: 25%;
+    padding-left: 2px;
+    border: 2px solid #08605F;
+}
+h2{
+    text-align: center;
+    margin: .5em;
+}
